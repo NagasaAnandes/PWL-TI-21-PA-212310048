@@ -10,6 +10,7 @@ const Form = () => {
                         <div className="card">
                             <div className="card-body">
                                 <form>
+                                    <h2>Form Submit</h2>
                                     <div classNameName="mb-3">
                                         <label for="personalData" className="form-label">NPM</label>
                                         <input type="number" className="form-control" id="NPM" required/>
